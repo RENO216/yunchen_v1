@@ -5,12 +5,16 @@
 <lastmod>2019-11-02T00:00:00-05:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/archive.html</loc>
+<loc>http://localhost:4000/Posts.html</loc>
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/CV_yunchen.pdf</loc>
+<lastmod>2019-11-03T08:02:50-06:00</lastmod>
 </url>
 </urlset>
