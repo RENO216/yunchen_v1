@@ -28,6 +28,7 @@ chart: true
 aside:
   toc: true
 mathjax: true
+header: true
 
 ---
 
@@ -123,14 +124,14 @@ mathjax: true
   </tr>
 </table>
 ## <span id = "Work">WORK EXPERIENCE</span>
-**<font size=4>WNCG, ECE Department, UT Austin, Texas, Sep. 2019 ~ Present</font>**  
+**WNCG, ECE Department, UT Austin, Texas, Sep. 2019 ~ Present**  
 Graduate Research Assistant - Prof. Robert Heath
 
-**<font size=4>Ericsson, Santa Clara, CA, Jun. 2019 ~ Aug. 2019</font>**   
+**Ericsson, Santa Clara, CA, Jun. 2019 ~ Aug. 2019**   
 Research Intern, *Efficient Drone Mobility Support Using Reinforcement Learning (RL)*  
     Develop RL based handover decision scheme  for drones using both Q-learning algorithm and Deep Q Network (DQN).
 
-**<font size=4>ECE Department, UT Austin, Texas, Jan. 2019 ~ May. 2019</font>**  
+**ECE Department, UT Austin, Texas, Jan. 2019 ~ May. 2019**  
 Teaching Assistant - Prof. Pedro Santacruz, *Probability and Random Processes*
 
 
