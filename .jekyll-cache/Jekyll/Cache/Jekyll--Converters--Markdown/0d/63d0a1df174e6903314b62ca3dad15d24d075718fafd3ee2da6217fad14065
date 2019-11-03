@@ -1,0 +1,30 @@
+I"	<h2 id="about"><span id="About">ABOUT</span></h2>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:1;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 4px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 4px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-rz8g{font-family:Arial, Helvetica, sans-serif !important;;background-color:#ffffff;border-color:#ffffff;text-align:center;vertical-align:center}
+.tg .tg-oe15{background-color:#ffffff;border-color:#ffffff;text-align:left;vertical-align:top}
+.tg .tg-htk4{font-family:Arial, Helvetica, sans-serif !important;;background-color:#ffffff;color:#333333;border-color:#ffffff;text-align:left;vertical-align:top}
+.tg .tg-wk8r{background-color:#ffffff;border-color:#ffffff;text-align:center;vertical-align:top}
+.tg .tg-b0es{font-weight:bold;background-color:#ffffff;border-color:#ffffff;text-align:center;vertical-align:top}
+</style>
+
+<table class="tg">
+  <tr>
+    <td class="tg-rz8g"><img src="./photo.JPG" width="60%" /></td>
+    <td class="tg-oe15"></td>
+    <td class="tg-htk4" rowspan="2">I am currently a graduate student in the <a href="http://www.ece.utexas.edu/">Department of Electrical and Computer Engineering</a> at the University of Texas at Austin , and supervised by <a href="http://www.ece.utexas.edu/people/faculty/robert-heath">Prof. Dr. Robert W. Heath Jr.</a> in <a href="http://www.profheath.org/">Wireless Systems Innovation Laboratory (WSIL)</a>. <br /><br /> Before this I received B.E. in Information Engineering from Southeast University, China. I also worked as a research assistant supervised by Prof. Luxi Yang in the Artificial Intelligence Laboratory at Southeast University, focusing on Reinforcement Learning and recommendation systems. <br /><br />Now my research interest lies in UAV navigation using deep reinforcement learning, specifically interactions and coordinations among drones, and interplay between drones and the environment.</td>
+  </tr>
+  <tr>
+    <td class="tg-b0es">yunchen (at) utexas (dot) edu<br />WNCGer @ECE, UT Austin</td>
+    <td class="tg-oe15"></td>
+  </tr>
+</table>
+
+<h2 id="publications"><span id="Publications">PUBLICATIONS</span></h2>
+
+<h2 id="work-experience"><span id="Work">WORK EXPERIENCE</span></h2>
+
+:ET
