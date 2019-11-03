@@ -1,13 +1,13 @@
 ---
 layout: article
-# titles:
-#   # @start locale config
-#   en      : &EN       HOME
-#   en-GB   : *EN
-#   en-US   : *EN
-#   en-CA   : *EN
-#   en-AU   : *EN
-#   # @end locale config
+titles:
+  # @start locale config
+  en      : &EN       HOME
+  en-GB   : *EN
+  en-US   : *EN
+  en-CA   : *EN
+  en-AU   : *EN
+  # @end locale config
 key: home
 chart: true
 aside:
@@ -15,7 +15,8 @@ aside:
 mathjax: true
 ---
 
-## <span id = "About">ABOUT</span>
+## ABOUT
+<!-- ## <span id = "About">ABOUT</span> -->
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -39,13 +40,14 @@ mathjax: true
   </tr>
 </table>
 
-
-## <span id = "Publications">PUBLICATIONS</span>
+## PUBLICATIONS
+<!-- ## <span id = "Publications">PUBLICATIONS</span> -->
 * **Y. Chen**, X. Lin, T. Khan, M. Mozaffari, "Efficient Drone Mobility Support Using Reinforcement Learning", in *2020 IEEE Wireless Communications and Networking Conference* (IEEE WCNC 2020), submitted.
 * **Y. Chen**, W. Yan, C. Li, Y. Huang, and L. Yang, "<a href="https://ieeexplore.ieee.org/document/8377056/references#references"><span style="color:rgb(101, 101, 101)">Personalized Optimal Bicycle Trip Planning Based on Q-learning Algorithm</span></a>", in *2018 IEEE Wireless Communications and Networking Conference* (IEEE WCNC 2018), Barcelona, Spain, Apr. 2018. 
 * Y. Wang, **Y. Chen**, H. Dai, Y. Huang, and L. Yang, "<a href="https://ieeexplore.ieee.org/abstract/document/8170984"><span style="color:rgb(101, 101, 101)">A Learning-Based Approach for Proactive Caching in Wireless Communication Networks</span></a>", in *The Ninth International Conference on Wireless Communications and Signal Processing*, Nanjing, China, Oct. 2017. 
 
-## <span id = "Educations">EDUCATIONS</span>
+## EDUCATIONS
+<!-- ## <span id = "Educations">EDUCATIONS</span> -->
 <style type="text/css">
 .tg .tg-uj1g{font-size:18px;background-color:#ffffff;border-color:#ffffff;text-align:right;vertical-align:middle}
 .tg .tg-ggd5{font-size:18px;background-color:#ffffff;border-color:#ffffff;text-align:left;vertical-align:middle}
@@ -107,7 +109,9 @@ mathjax: true
     <td class="tg-oe15"></td>
   </tr>
 </table>
-## <span id = "Work">WORK EXPERIENCE</span>
+
+## WORK EXPERIENCE
+<!-- ## <span id = "Work">WORK EXPERIENCE</span> -->
 **WNCG, ECE Department, UT Austin, Texas, Sep. 2019 ~ Present**  
 Graduate Research Assistant - Prof. Robert Heath
 

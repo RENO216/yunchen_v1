@@ -1,4 +1,5 @@
-I"�<h2 id="about"><span id="About">ABOUT</span></h2>
+I"<h2 id="about">ABOUT</h2>
+<!-- ## <span id = "About">ABOUT</span> -->
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -23,14 +24,16 @@
   </tr>
 </table>
 
-<h2 id="publications"><span id="Publications">PUBLICATIONS</span></h2>
+<h2 id="publications">PUBLICATIONS</h2>
+<!-- ## <span id = "Publications">PUBLICATIONS</span> -->
 <ul>
   <li><strong>Y. Chen</strong>, X. Lin, T. Khan, M. Mozaffari, “Efficient Drone Mobility Support Using Reinforcement Learning”, in <em>2020 IEEE Wireless Communications and Networking Conference</em> (IEEE WCNC 2020), submitted.</li>
   <li><strong>Y. Chen</strong>, W. Yan, C. Li, Y. Huang, and L. Yang, “<a href="https://ieeexplore.ieee.org/document/8377056/references#references"><span style="color:rgb(101, 101, 101)">Personalized Optimal Bicycle Trip Planning Based on Q-learning Algorithm</span></a>”, in <em>2018 IEEE Wireless Communications and Networking Conference</em> (IEEE WCNC 2018), Barcelona, Spain, Apr. 2018.</li>
   <li>Y. Wang, <strong>Y. Chen</strong>, H. Dai, Y. Huang, and L. Yang, “<a href="https://ieeexplore.ieee.org/abstract/document/8170984"><span style="color:rgb(101, 101, 101)">A Learning-Based Approach for Proactive Caching in Wireless Communication Networks</span></a>”, in <em>The Ninth International Conference on Wireless Communications and Signal Processing</em>, Nanjing, China, Oct. 2017.</li>
 </ul>
 
-<h2 id="educations"><span id="Educations">EDUCATIONS</span></h2>
+<h2 id="educations">EDUCATIONS</h2>
+<!-- ## <span id = "Educations">EDUCATIONS</span> -->
 <style type="text/css">
 .tg .tg-uj1g{font-size:18px;background-color:#ffffff;border-color:#ffffff;text-align:right;vertical-align:middle}
 .tg .tg-ggd5{font-size:18px;background-color:#ffffff;border-color:#ffffff;text-align:left;vertical-align:middle}
@@ -93,7 +96,9 @@
     <td class="tg-oe15"></td>
   </tr>
 </table>
-<h2 id="work-experience"><span id="Work">WORK EXPERIENCE</span></h2>
+
+<h2 id="work-experience">WORK EXPERIENCE</h2>
+<!-- ## <span id = "Work">WORK EXPERIENCE</span> -->
 <p><strong>WNCG, ECE Department, UT Austin, Texas, Sep. 2019 ~ Present</strong><br />
 Graduate Research Assistant - Prof. Robert Heath</p>
 
