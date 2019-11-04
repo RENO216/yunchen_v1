@@ -1,13 +1,13 @@
 ---
 layout: article
-titles:
-  # @start locale config
-  en      : &EN       HOME
-  en-GB   : *EN
-  en-US   : *EN
-  en-CA   : *EN
-  en-AU   : *EN
-  # @end locale config
+# titles:
+#   # @start locale config
+#   en      : &EN       HOME
+#   en-GB   : *EN
+#   en-US   : *EN
+#   en-CA   : *EN
+#   en-AU   : *EN
+#   # @end locale config
 key: home
 chart: true
 aside:
