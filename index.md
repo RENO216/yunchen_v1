@@ -1,5 +1,6 @@
 ---
 layout: article
+title: HOME
 # titles:
 #   # @start locale config
 #   en      : &EN       HOME
