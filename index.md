@@ -1,6 +1,6 @@
 ---
 layout: article
-title: HOME
+title:   
 # titles:
 #   # @start locale config
 #   en      : &EN       HOME
@@ -15,7 +15,6 @@ aside:
   toc: true
 mathjax: true
 ---
-  
 ## ABOUT
 <!-- ## <span id = "About">ABOUT</span> -->
 
