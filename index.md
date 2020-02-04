@@ -42,7 +42,7 @@ mathjax: true
 
 ## PUBLICATIONS
 <!-- ## <span id = "Publications">PUBLICATIONS</span> -->
-* **Y. Chen**, X. Lin, T. Khan, M. Mozaffari, "Efficient Drone Mobility Support Using Reinforcement Learning", in *2020 IEEE Wireless Communications and Networking Conference* (IEEE WCNC 2020), submitted.
+* **Y. Chen**, X. Lin, T. Khan, M. Mozaffari, ``Efficient Drone Mobility Support Using Reinforcement Learning'', in \emph{2020 IEEE Wireless Communications and Networking Conference (IEEE WCNC 2020)},  Seoul, South Korea, accepted.
 * **Y. Chen**, W. Yan, C. Li, Y. Huang, and L. Yang, "<a href="https://ieeexplore.ieee.org/document/8377056/references#references"><span style="color:rgb(101, 101, 101)">Personalized Optimal Bicycle Trip Planning Based on Q-learning Algorithm</span></a>", in *2018 IEEE Wireless Communications and Networking Conference* (IEEE WCNC 2018), Barcelona, Spain, Apr. 2018. 
 * Y. Wang, **Y. Chen**, H. Dai, Y. Huang, and L. Yang, "<a href="https://ieeexplore.ieee.org/abstract/document/8170984"><span style="color:rgb(101, 101, 101)">A Learning-Based Approach for Proactive Caching in Wireless Communication Networks</span></a>", in *The Ninth International Conference on Wireless Communications and Signal Processing*, Nanjing, China, Oct. 2017. 
 
@@ -92,6 +92,10 @@ mathjax: true
   </tr>
   <tr>
     <td class="tg-oe15"><a href="http://www.cs.utexas.edu/~pstone/Courses/394Rfall19/"><span style="color:rgb(101, 101, 101)">Reinforcement Learning (CS 394R)</span></a></td>
+    <td class="tg-oe15"></td>
+  </tr>
+  <tr>
+    <td class="tg-oe15"><a href="http://users.ece.utexas.edu/~ethomaz/courses/dm/sp2020.html"><span style="color:rgb(101, 101, 101)">Data Mining (EE 380L)</span></a></td>
     <td class="tg-oe15"></td>
   </tr>
 </table>
