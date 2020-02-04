@@ -1,4 +1,4 @@
-I"<h2 id="about">ABOUT</h2>
+I"<h2 id="about">ABOUT</h2>
 <!-- ## <span id = "About">ABOUT</span> -->
 
 <style type="text/css">
@@ -27,7 +27,7 @@
 <h2 id="publications">PUBLICATIONS</h2>
 <!-- ## <span id = "Publications">PUBLICATIONS</span> -->
 <ul>
-  <li><strong>Y. Chen</strong>, X. Lin, T. Khan, M. Mozaffari, “Efficient Drone Mobility Support Using Reinforcement Learning”, in <em>2020 IEEE Wireless Communications and Networking Conference</em> (IEEE WCNC 2020), submitted.</li>
+  <li><strong>Y. Chen</strong>, X. Lin, T. Khan, M. Mozaffari, ``Efficient Drone Mobility Support Using Reinforcement Learning’’, in \emph{2020 IEEE Wireless Communications and Networking Conference (IEEE WCNC 2020)},  Seoul, South Korea, accepted.</li>
   <li><strong>Y. Chen</strong>, W. Yan, C. Li, Y. Huang, and L. Yang, “<a href="https://ieeexplore.ieee.org/document/8377056/references#references"><span style="color:rgb(101, 101, 101)">Personalized Optimal Bicycle Trip Planning Based on Q-learning Algorithm</span></a>”, in <em>2018 IEEE Wireless Communications and Networking Conference</em> (IEEE WCNC 2018), Barcelona, Spain, Apr. 2018.</li>
   <li>Y. Wang, <strong>Y. Chen</strong>, H. Dai, Y. Huang, and L. Yang, “<a href="https://ieeexplore.ieee.org/abstract/document/8170984"><span style="color:rgb(101, 101, 101)">A Learning-Based Approach for Proactive Caching in Wireless Communication Networks</span></a>”, in <em>The Ninth International Conference on Wireless Communications and Signal Processing</em>, Nanjing, China, Oct. 2017.</li>
 </ul>
@@ -45,7 +45,7 @@
     <th class="tg-uj1g"><span style="font-weight:normal">Aug. 2018 ~ Present</span></th>
   </tr>
   <tr>
-    <td class="tg-oe15" colspan="2">M.S., Electrical and Computer Engineering (GPA: 3.93/4.0)</td>
+    <td class="tg-oe15" colspan="2">M.S., Electrical and Computer Engineering (GPA: 3.95/4.0)</td>
     <td class="tg-oe15"></td>
   </tr>
   <tr>
@@ -79,6 +79,10 @@
   </tr>
   <tr>
     <td class="tg-oe15"><a href="http://www.cs.utexas.edu/~pstone/Courses/394Rfall19/"><span style="color:rgb(101, 101, 101)">Reinforcement Learning (CS 394R)</span></a></td>
+    <td class="tg-oe15"></td>
+  </tr>
+  <tr>
+    <td class="tg-oe15"><a href="http://users.ece.utexas.edu/~ethomaz/courses/dm/sp2020.html"><span style="color:rgb(101, 101, 101)">Data Mining (EE 380L)</span></a></td>
     <td class="tg-oe15"></td>
   </tr>
 </table>
