@@ -1,0 +1,102 @@
+I"�<style type="text/css">
+@font-face{
+     font-family: 'text_font'; 
+     src: url('./fonts/SF-Pro-Text-Light.otf');
+     /* src: url('./fonts/Avenir.ttc'); */
+}
+
+.tg  {border-collapse:collapse; border-spacing:0; border-width:5px; border-style:initial; border-width:5px}
+.tg .td-1{font-family:'text_font'; font-size:16px; border-width:0px; text-align:center; vertical-align:top;}
+.tg .td-2{font-family:'text_font'; font-size:16px; border-width:0px; text-align:justify}
+.tg .td-3{font-family:'text_font'; font-size:14px; border-width:0px; text-align:justify}
+</style>
+
+<h2 id="about">ABOUT</h2>
+
+<table class="tg">
+  <tr>
+    <td class="td-2" width="35%"><img src="./photo.JPG" width="100%" /></td>
+    <td class="td-1"></td>
+    <td class="td-2" rowspan="2" width="65%"><p>I am currently a graduate student in the <a href="http://www.ece.utexas.edu/"><span style="color:rgb(101, 101, 101)">Department of Electrical and Computer Engineering</span></a> at the University of Texas at Austin , and supervised by <a href="http://www.ece.utexas.edu/people/faculty/robert-heath"><span style="color:rgb(101, 101, 101)">Prof. Dr. Robert W. Heath Jr.</span></a> in <a href="http://www.profheath.org/"><span style="color:rgb(101, 101, 101)">Wireless Systems Innovation Laboratory (WSIL)</span></a>. </p>
+    <p> Before this I received B.E. in Information Engineering from <a href="http://www.seu.edu.cn/english/"><span style="color:rgb(101, 101, 101)">Southeast University</span></a>, China. I also worked as a research assistant supervised by Prof. Luxi Yang in the Artificial Intelligence Laboratory at Southeast University, focusing on Reinforcement Learning and recommendation systems. </p>
+    <p>Now my research interest lies in UAV navigation and communication systems, 5G deployment optimizations, IoT platforms, etc.</p></td>
+  </tr>
+  <tr>
+    <td class="td-1">yunchen (at) utexas (dot) edu<br />WNCGer @ ECE, UT Austin</td>
+    <td class="td-1"></td>
+  </tr>
+</table>
+
+<h2 id="selected-publications">SELECTED PUBLICATIONS</h2>
+<!-- ## <span id = "Publications">PUBLICATIONS</span> -->
+
+<table class="tg">
+    <!-- <tr class="td"> -->
+    <tr>
+      <td class="td-2" width="30%">
+      TBD
+      </td>
+      <td class="td-2">
+      <b>Y. Chen</b>, X. Lin, T. Khan, M. Mozaﬀari, ``A Deep Learning Approach to Eﬃcient Drone Mobility Support”, in <i>The 2nd Workshop on Drone Assisted Wireless Communications for 5G and Beyond - co-located with ACM MobiCom 2020 (DroneCom 2020)</i>, London, United Kingdom, Sep. 2020.
+      </td>
+      </tr>
+      <tr>
+      <td class="td-2" width="30%">
+      TBD
+      </td>
+      <td class="td-2">
+      <b>Y. Chen</b>, N. Gonzalez-Prelcic, RW. Heath, ``Collision-free UAV Navigation With a Monocular Camera Using Deep Reinforcement Learning'', in <i>2020 IEEE 30th International Workshop on Machine Learning for Signal Processing (MLSP)</i>, Espoo, Finland, Sep. 2020. 
+      </td>
+      </tr>
+      <tr>
+      <td class="td-2" width="30%">
+      TBD
+      </td>
+      <td class="td-2">
+      <a href="https://wcnc2020.ieee-wcnc.org/program/ieee-wcnc-2020-best-paper-selection"><span style="color:rgb(101, 101, 101)">[Best Paper Award]</span></a> <b>Y. Chen</b>, X. Lin, T. Khan, M. Mozaffari, ``Efficient Drone Mobility Support Using Reinforcement Learning'', in <i>2020 IEEE Wireless Communications and Networking Conference (IEEE WCNC 2020)</i>,  Seoul, South Korea, May 2020. 
+      </td>
+      </tr>
+</table>
+
+<h2 id="publications">PUBLICATIONS</h2>
+<!-- ## <span id = "Publications">PUBLICATIONS</span> -->
+
+<table class="tg">
+    <!-- <tr class="td"> -->
+    <tr>
+      <td class="td-2" width="2px"><svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M0 0h24v24H0z" fill="none" /><path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-5 14H7v-2h7v2zm3-4H7v-2h10v2zm0-4H7V7h10v2z" /></svg></td>
+      <td class="td-3">
+      <b>Y. Chen</b>, X. Lin, T. Khan, M. Mozaﬀari, ``A Deep Learning Approach to Eﬃcient Drone Mobility Support”, in <i>The 2nd Workshop on Drone Assisted Wireless Communications for 5G and Beyond - co-located with ACM MobiCom 2020 (DroneCom 2020)</i>, London, United Kingdom, Sep. 2020.
+      </td>
+      </tr>
+      <tr>
+      <td class="td-3">
+      <b>Y. Chen</b>, N. Gonzalez-Prelcic, RW. Heath, ``Collision-free UAV Navigation With a Monocular Camera Using Deep Reinforcement Learning'', in <i>2020 IEEE 30th International Workshop on Machine Learning for Signal Processing (MLSP)</i>, Espoo, Finland, Sep. 2020. 
+      </td>
+      </tr>
+      <tr>
+      <td class="td-3">
+      <a href="https://wcnc2020.ieee-wcnc.org/program/ieee-wcnc-2020-best-paper-selection"><span style="color:rgb(101, 101, 101)">[Best Paper Award]</span></a> <b>Y. Chen</b>, X. Lin, T. Khan, M. Mozaffari, ``Efficient Drone Mobility Support Using Reinforcement Learning'', in <i>2020 IEEE Wireless Communications and Networking Conference (IEEE WCNC 2020)</i>,  Seoul, South Korea, May 2020. 
+      </td>
+      </tr>
+      <tr>
+      <td class="td-3"> <b>Y. Chen</b>, W. Yan, C. Li, Y. Huang, and L. Yang, "<a href="https://ieeexplore.ieee.org/document/8377056/references#references"><span style="color:rgb(101, 101, 101)">Personalized Optimal Bicycle Trip Planning Based on Q-learning Algorithm</span></a>", in <i>2018 IEEE Wireless Communications and Networking Conference</i> (IEEE WCNC 2018), Barcelona, Spain, Apr. 2018.  </td></tr>
+      <tr>
+      <td class="td-3"> Y. Wang, <b>Y. Chen</b>, H. Dai, Y. Huang, and L. Yang, "<a href="https://ieeexplore.ieee.org/abstract/document/8170984"><span style="color:rgb(101, 101, 101)">A Learning-Based Approach for Proactive Caching in Wireless Communication Networks</span></a>", in <i>The Ninth International Conference on Wireless Communications and Signal Processing</i>, Nanjing, China, Oct. 2017.  </td>
+      </tr>
+    <!-- </tr> -->
+</table>
+
+<!-- ## INTERNSHIP -->
+<!-- ## <span id = "Work">WORK EXPERIENCE</span> -->
+<!-- **WNCG, ECE Department, UT Austin, Texas, Sep. 2019 ~ Present**  
+Graduate Research Assistant - Prof. Robert Heath -->
+<!-- 
+**Ericsson, Santa Clara, CA, Jun. 2019 ~ Aug. 2019**   
+Research Intern, *Efficient Drone Mobility Support Using Reinforcement Learning (RL)*  
+    Develop RL based handover decision scheme  for drones using both Q-learning algorithm and Deep Q Network (DQN).
+
+**ECE Department, UT Austin, Texas, Jan. 2019 ~ May. 2019**  
+Teaching Assistant - Prof. Pedro Santacruz, *Probability and Random Processes* -->
+
+:ET
